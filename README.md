@@ -1,8 +1,10 @@
 # Graph maker
 
 1.	Stručné zadání (anotace)
-==============================================
+===
+
 **Program řeší grafové algoritmy. Pomáhá vyřešit několik lehkých přikladu z grafy.**
+
 Program umí několik algoritmu: 
 -	hledání nejkratší cesty, 
 -	minimální kostry, 
@@ -11,7 +13,8 @@ Program umí několik algoritmu:
 Pro fungování těch algoritmu použiju několik pomocných algoritmu, např. DFS (pomocí barvení vrcholu)
 
 2.	Přesný popis programu 
-==============================================
+===
+
 Poprvé musíme nakreslit graf, pomocí tlačítek vrchol a hrana. Pozor na to, že můžeme nakreslit orientovaný graf. 
 ----------------------------------------------
 1.	Hledání nejkratší cesty:
