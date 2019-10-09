@@ -10,6 +10,7 @@ Program umí několik algoritmů:
 -	hledání minimální kostry 
 -	hledání komponent souvislosti
 -	topologické třídění grafu
+
 Pro fungování jednotlivých algoritmů použijeme několik pomocných algoritmů, např. DFS.
 
 ## 2.	Přesný popis programu 
