@@ -1,7 +1,7 @@
 # Graph maker
 
-1.	Stručné zadání (anotace)
-===
+## 1.	Stručné zadání (anotace)
+
 
 **Program řeší grafové algoritmy. Pomáhá vyřešit několik lehkých přikladu z grafy.**
 
@@ -12,11 +12,11 @@ Program umí několik algoritmu:
 -	topologické třídění grafu.
 Pro fungování těch algoritmu použiju několik pomocných algoritmu, např. DFS (pomocí barvení vrcholu)
 
-2.	Přesný popis programu 
-===
+## 2.	Přesný popis programu 
 
-Poprvé musíme nakreslit graf, pomocí tlačítek vrchol a hrana. Pozor na to, že můžeme nakreslit orientovaný graf. 
-----------------------------------------------
+
+**Poprvé musíme nakreslit graf, pomocí tlačítek vrchol a hrana. Pozor na to, že můžeme nakreslit orientovaný graf.**
+
 1.	Hledání nejkratší cesty:
 Pro hledání nejkratší cesty musíme ukázat vrcholy start a stop. Pak ukázat ohodnoceni hrany a její směr.  Pak v tabulce 1. se vypíše hrana, její směr a hmotnost. V tabulce 2. se vypíše směr cesty a její délka.
 Algoritmus hledá nejkratší cestu v orientovaných a neorientovaných grafech. Na to použiju trochu opravený Dijkstrův algoritmus.
