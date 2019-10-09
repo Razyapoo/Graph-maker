@@ -30,4 +30,4 @@ Pro hledání komponenty souvislosti použiju DFS, tak, že dělám pole kompone
 Pro hledání topologického třídění grafu musíte nakreslit DAG graf. Na to použiju boolean DFS a pak vypíšu v obraceném pořadí.
 
 
-### Graf můžeme uložit jako obrázek.
+**Graf můžeme uložit jako obrázek.**
